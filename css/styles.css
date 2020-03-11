@@ -1,0 +1,152 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #373737;
+  background-color: white; }
+
+.navbar-toggler-icon {
+  background-image: url(../assets/img/hamburger.svg); }
+
+.navbar-isr {
+  background-color: transparent;
+  color: #6d9b6c;
+  padding-top: 2px; }
+
+.navbar-isr a {
+  color: #6d9b6c; }
+
+.main-logo {
+  height: 72px; }
+
+.nav-item a {
+  background-color: white; }
+
+.nav-item-first {
+  background-image: url(../assets/img/jumbotron/jumbo-back-left.svg);
+  background-color: transparent;
+  background-size: contain;
+  background-position: left center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  padding-left: 20px !important; }
+
+.nav-item-last {
+  background-image: url(../assets/img/jumbotron/jumbo-back-right.svg);
+  background-color: transparent;
+  background-size: contain;
+  background-position: right center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  padding-right: 20px !important; }
+
+.nav-item a span {
+  background-color: white;
+  padding-top: 8px;
+  padding-bottom: 8px; }
+
+.main-burger {
+  background-color: white; }
+
+.main-slogan h1 {
+  background-color: white;
+  font-size: 20px;
+  display: inline; }
+
+.pre-slogan {
+  display: table-cell;
+  background-image: url(../assets/img/jumbotron/jumbo-back-left.svg);
+  background-color: transparent;
+  background-size: contain;
+  background-position: right center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  padding-left: 40px !important; }
+
+.post-slogan {
+  display: table-cell;
+  background-image: url(../assets/img/jumbotron/jumbo-back-right.svg);
+  background-color: transparent;
+  background-size: contain;
+  background-position: left center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  padding-right: 40px !important; }
+
+.slogan-holder {
+  display: table-cell;
+  background-color: white; }
+
+.isr-jumbotron {
+  background-image: url(../assets/img/jumbotron/Sources/connector5.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #041711;
+  background-position: center top;
+  padding-top: 0px;
+  padding-bottom: 80px; }
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 200;
+  color: #6d9b6c; }
+
+.pull-up {
+  position: relative;
+  top: -50px; }
+
+.card {
+  border-color: #6d9b6c; }
+
+.gray-section {
+  background: #f4f4f4;
+  margin-top: 10px; }
+
+.reselling {
+  margin: 10px auto 0; }
+
+.navy-line {
+  width: 60%;
+  height: 1px;
+  margin: 40px auto 0;
+  border-bottom: 2px solid #6d9b6c; }
+
+.carousel-lead {
+  color: #6d9b6c !important;
+  font-size: 12px !important;
+  margin-bottom: 6px; }
+
+.isr-map {
+  padding-top: 40px; }
+
+.carousel-i {
+  padding-left: 10px;
+  padding-right: 10px; }
+
+.ipservices h2 {
+  font-size: 22px;
+  font-weight: 600; }
+
+.ipservices h4 {
+  font-size: 18px;
+  font-weight: 500; }
+
+/* Basement */
+.basement {
+  padding-top: 10px;
+  color: white;
+  background-color: #6d9b6c; }
+
+.basement a {
+  color: white; }
+
+.basement img {
+  padding-top: 10px; }
+
+/* /Basement */
